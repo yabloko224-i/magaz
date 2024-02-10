@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: PaleTurquoise;
+    border-radius: 15px;
+}
+header b{
+    color: MidnightBlue;
+}
+header img{
+    margin: 20px;
+}
+h1{
+    color: MidnightBlue;
+    background-color: PaleTurquoise;
+    text-align: center;
+    border-radius: 15px;
+}
+footer{
+background-color: rgb(75, 124, 196);
+}
+footer p{
+color: rgb(255, 255, 255);
+background-color:rgb(60, 95, 148) ;
+}
+nav{
+background-color: rgb(255, 255, 201);
+}
+nav a{
+    text-decoration:none;
+    color: blue;
+}
+.u{
+    background-color:  PaleTurquoise;
+    color: blue;
+    border-radius: 5px;
+}
+p{
+    font-size: 25px;
+}
+b{
+    font-size: 25px;
+}
+a{
+    font-size: 25px;
+}
+h1{
+text-align: center;
+background-color: darkcyan;
+color: darkblue;
+}
+h2{
+text-align: center;
+background-color: darkcyan;
+color: darkblue;
+}
